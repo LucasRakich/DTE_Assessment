@@ -1,4 +1,108 @@
 /*Header*/
 .Navbar {
+    display: flex;
     justify-content: center;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight:100;
+    background-color: #007bff;
+}
+.Navbar p {
+    color: white;
+}
+.Navbar a {
+    color: white;
+}
+.Navbar a:hover {
+    color: gray;
+    font-size: 30px;
+}
+.Navdiv {
+    background-color: #007bff;
+    border-style: inset;
+    border-width: 5px;
+}
+.Navdiv img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Footer*/
+.Navfoot a{
+    color: black;
+}
+
+/*HomePage*/
+.carousel-inner {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+.carouseldiv {
+    background-color: #496580;
+    border-style: inset;
+    border-width: 5px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.Ques1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.Intro p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-width: 5px;
+    width: 50%;
+}
+
+/*ContactPage*/
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+.form-label {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.form-control {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/*FAQPage*/
+.FAQques {
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-top: 10px;
+    padding-top: 30px;
+    border-style: solid;
 }
