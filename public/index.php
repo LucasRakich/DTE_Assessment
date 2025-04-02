@@ -36,13 +36,13 @@ Ultimately, my mission is to inspire collective action. By bringing attention to
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://media.rnztools.nz/rnz/image/upload/s--ADSLh_KS--/c_scale,f_auto,q_auto,w_1050/v1643650976/4OFSGGO_copyright_image_105044?_a=BACCd2AD" class="d-block w-100" alt="House1">
+      <img src="https://www.squirrel.co.nz/_next/image?url=https%3A%2F%2Fsquirrelconz-production-app.azurewebsites.net%2Fmedia%2Fjncha4yo%2Fpre-1940s-houses.jpg&w=3840&q=80" class="d-block w-100" alt="House1">
     </div>
     <div class="carousel-item">
-      <img src="https://i.guim.co.uk/img/media/8a2922c7b7764576d7fa8a062288552ae82a2e6d/121_205_1923_1154/master/1923.jpg?width=1200&quality=85&auto=format&fit=max&s=d8882ad237212821291c2f805a187682" class="d-block w-100" alt="house2">
+      <img src="https://www.barfoot.co.nz/media/22qpjq3m/auckland-house-styles-9.jpg" class="d-block w-100" alt="house2">
     </div>
     <div class="carousel-item">
-      <img src="https://www.barfoot.co.nz/media/w5onnctc/auckland-house-styles-3.jpg" class="d-block w-100" alt="house3">
+      <img src="https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/HPO6UEHPL7WQAOTUSPROF5MVSY.jpg" class="d-block w-100" alt="house3">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
